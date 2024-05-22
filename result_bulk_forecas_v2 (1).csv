@@ -1,4 +1,4 @@
-"","id",".model_id",".model_desc",".key",".index",".value",".conf_lo",".conf_hi","as_of","start_date","end_date"
+"","family",".model_id",".model_desc",".key","_date","sales",".conf_lo",".conf_hi","as_of","start_date","end_date"
 "1","AUTOMOTIVE",1,"PROPHET","prediction",2017-08-16,61.7375078957521,21.4872265310275,101.987789260477,2024-05-22,2015-01-01,2017-08-15
 "2","AUTOMOTIVE",1,"PROPHET","prediction",2017-08-17,52.2723356217205,12.0220542569958,92.5226169864451,2024-05-22,2015-01-01,2017-08-15
 "3","AUTOMOTIVE",1,"PROPHET","prediction",2017-08-18,57.2487731228619,16.9984917581373,97.4990544875866,2024-05-22,2015-01-01,2017-08-15
