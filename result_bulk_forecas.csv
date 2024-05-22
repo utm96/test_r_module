@@ -1,4 +1,4 @@
-"","id",".model_id",".model_desc",".key",".index",".value",".conf_lo",".conf_hi","as_of","start_date","end_date"
+"","family",".model_id",".model_desc",".key",".index",".value",".conf_lo",".conf_hi","as_of","start_date","end_date"
 "1","AUTOMOTIVE",3,"RANDOMFOREST","prediction",2017-08-16,0.0957667143403926,-3.71815389258199,3.90968732126278,2024-05-22,2015-01-01,2017-08-15
 "2","AUTOMOTIVE",3,"RANDOMFOREST","prediction",2017-08-17,0.0102242083860608,-3.80369639853633,3.82414481530845,2024-05-22,2015-01-01,2017-08-15
 "3","AUTOMOTIVE",3,"RANDOMFOREST","prediction",2017-08-18,0.115435573181043,-3.69848503374134,3.92935618010343,2024-05-22,2015-01-01,2017-08-15
